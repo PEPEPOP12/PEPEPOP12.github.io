@@ -53,12 +53,9 @@ body {
 }
 
 .rk-header {
-  background-color: rgb(172, 19, 19);
+  background-color: gray;
   position: relative;
   z-index: 5;
-}
-.top-fixed .rk-header {
-  position: fixed;
 }
 
 .rk-topbar {
